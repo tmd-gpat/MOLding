@@ -340,7 +340,7 @@ case $MACHARCH in
        TMPDIR=/tmp
        export TMPDIR
      fi
-    ARCH=MACOSX
+    ARCH=MACOSXX86
     VMD_WINTERM=xterm
     VMD_WINOPTS='-sb -sl 1000 -e'
     ## Override default window size and position 

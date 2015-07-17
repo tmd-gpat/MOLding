@@ -287,7 +287,7 @@ case *Darwin*:
   if ($?TMPDIR == "0" ) then
     setenv TMPDIR /tmp
   endif
-  set ARCH=MACOSX
+  set ARCH=MACOSXX86
   set VMD_WINTERM=xterm
   set VMD_WINOPTS='-sb -sl 1000 -e'
   ## Override default window size and position 
