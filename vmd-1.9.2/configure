@@ -2613,7 +2613,7 @@ if ($config_arch eq "MACOSXX86" || $config_arch eq "MACOSXX86_64") {
       $vmd_library .= " -Wl,-executable_path . -lmx";
  
       $fltk_libs        = "-lfltk";
-      $opengl_include   = $opengl_include;
+      $fltkopengl_include = $fltkopengl_include . " -I/opt/X11/include";
       if ($config_lp64) {
         $opengl_dep_libs  = "-framework OpenGL -framework AGL -framework Cocoa";
       } else {
