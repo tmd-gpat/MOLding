@@ -3277,7 +3277,6 @@ $config_progname: y.tab.h \$(VMD_OBJS) \$(VMD_PTX)
 	  ln -s $vmd_src_dir/$arch_template_repository ./$arch_template_repository ; \\
 	fi; \\
 	\$(CCPP) \$(CPPFLAGS) -I$vmd_src_dir -o \$\@ \$(VMD_OBJS) \$(LOADLIBES) ; 
-	\$(COMPILERC) \$(RCFLAGS)
 
 install:
 	if [ ! -d "$install_library_dir" ]; then \\
