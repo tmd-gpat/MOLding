@@ -1,0 +1,12 @@
+Building Molecule File Reader plugins
+"src/abinitplugin.c", line 708: warning: statement not reached
+"src/abinitplugin.c", line 708: warning: statement not reached
+"src/psftype.C", line 71: Warning: index hides PsfType::index.
+1 Warning(s) detected.
+"src/tcl_hesstrans.C", line 426: Warning (Anachronism): Formal argument proc of type extern "C" int(*)(void*,Tcl_Interp*,int,Tcl_Obj*const*) in call to Tcl_CreateObjCommand(Tcl_Interp*, const char*, extern "C" int(*)(void*,Tcl_Interp*,int,Tcl_Obj*const*), void*, extern "C" void(*)(void*)) is being passed int(*)(void*,Tcl_Interp*,int,Tcl_Obj*const*).
+"src/tcl_hesstrans.C", line 429: Warning (Anachronism): Formal argument proc of type extern "C" int(*)(void*,Tcl_Interp*,int,Tcl_Obj*const*) in call to Tcl_CreateObjCommand(Tcl_Interp*, const char*, extern "C" int(*)(void*,Tcl_Interp*,int,Tcl_Obj*const*), void*, extern "C" void(*)(void*)) is being passed int(*)(void*,Tcl_Interp*,int,Tcl_Obj*const*).
+2 Warning(s) detected.
+"src/xml2ps.c", line 2270: warning: implicit function declaration: get_BDIR
+"src/ops.C", line 58: Warning: String literal converted to char* in initialization.
+"src/ops.C", line 65: Warning: String literal converted to char* in initialization.
+2 Warning(s) detected.

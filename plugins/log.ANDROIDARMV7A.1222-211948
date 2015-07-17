@@ -1,0 +1,549 @@
+Building Molecule File Reader plugins
+src/periodic_table.h:160:12: warning: 'get_pte_idx_from_string' defined but not used [-Wunused-function]
+/Projects/collaboratory/kvandivo/android-ndk-r10/toolchains/arm-linux-androideabi-4.6/prebuilt/linux-x86/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/as: /usr/lib/libz.so.1: no version information available (required by /Projects/collaboratory/kvandivo/android-ndk-r10/toolchains/arm-linux-androideabi-4.6/prebuilt/linux-x86/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/as)
+-fPIC -o ../compile/lib_ANDROIDARMV7A/molfile/abinitplugin.so ../compile/lib_ANDROIDARMV7A/molfile/abinitplugin.o
+/Projects/collaboratory/kvandivo/android-ndk-r10/toolchains/arm-linux-androideabi-4.6/prebuilt/linux-x86/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/as: /usr/lib/libz.so.1: no version information available (required by /Projects/collaboratory/kvandivo/android-ndk-r10/toolchains/arm-linux-androideabi-4.6/prebuilt/linux-x86/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/as)
+-fPIC -o ../compile/lib_ANDROIDARMV7A/molfile/avsplugin.so ../compile/lib_ANDROIDARMV7A/molfile/avsplugin.o
+src/readpdb.h:187:13: warning: 'get_pdb_header' defined but not used [-Wunused-function]
+src/readpdb.h:207:13: warning: 'get_pdb_conect' defined but not used [-Wunused-function]
+src/readpdb.h:348:12: warning: 'write_raw_pdb_record' defined but not used [-Wunused-function]
+src/vmddir.h:132:12: warning: 'vmd_file_is_executable' defined but not used [-Wunused-function]
+src/periodic_table.h:95:20: warning: 'get_pte_label' defined but not used [-Wunused-function]
+src/periodic_table.h:133:12: warning: 'get_pte_idx' defined but not used [-Wunused-function]
+src/babelplugin.c:319:20: warning: 'openbabel11type_from_name' defined but not used [-Wunused-function]
+/Projects/collaboratory/kvandivo/android-ndk-r10/toolchains/arm-linux-androideabi-4.6/prebuilt/linux-x86/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/as: /usr/lib/libz.so.1: no version information available (required by /Projects/collaboratory/kvandivo/android-ndk-r10/toolchains/arm-linux-androideabi-4.6/prebuilt/linux-x86/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/as)
+-fPIC -o ../compile/lib_ANDROIDARMV7A/molfile/babelplugin.so ../compile/lib_ANDROIDARMV7A/molfile/babelplugin.o
+src/qmplugin.h:711:12: warning: 'symmetry_expand' defined but not used [-Wunused-function]
+src/qmplugin.h:835:13: warning: 'eatline' defined but not used [-Wunused-function]
+src/qmplugin.h:846:13: warning: 'eatwhitelines' defined but not used [-Wunused-function]
+src/qmplugin.h:895:12: warning: 'iswhiteline' defined but not used [-Wunused-function]
+src/qmplugin.h:901:14: warning: 'strtoupper' defined but not used [-Wunused-function]
+src/qmplugin.h:962:12: warning: 'goto_keyline' defined but not used [-Wunused-function]
+src/qmplugin.h:1006:12: warning: 'have_keyline' defined but not used [-Wunused-function]
+src/qmplugin.h:1077:13: warning: 'thisline' defined but not used [-Wunused-function]
+src/qmplugin.h:1097:13: warning: 'whereami' defined but not used [-Wunused-function]
+src/qmplugin.h:437:18: warning: 'init_qmdata' defined but not used [-Wunused-function]
+src/qmplugin.h:471:27: warning: 'add_wavefunction' defined but not used [-Wunused-function]
+src/qmplugin.h:490:13: warning: 'replace_wavefunction' defined but not used [-Wunused-function]
+src/qmplugin.h:507:13: warning: 'del_wavefunction' defined but not used [-Wunused-function]
+src/qmplugin.h:540:13: warning: 'angular_momentum_expon' defined but not used [-Wunused-function]
+src/qmplugin.h:585:13: warning: 'print_matrix4' defined but not used [-Wunused-function]
+src/qmplugin.h:1028:12: warning: 'fpexpftoc' defined but not used [-Wunused-function]
+/Projects/collaboratory/kvandivo/android-ndk-r10/toolchains/arm-linux-androideabi-4.6/prebuilt/linux-x86/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/as: /usr/lib/libz.so.1: no version information available (required by /Projects/collaboratory/kvandivo/android-ndk-r10/toolchains/arm-linux-androideabi-4.6/prebuilt/linux-x86/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/as)
+-fPIC -o ../compile/lib_ANDROIDARMV7A/molfile/basissetplugin.so ../compile/lib_ANDROIDARMV7A/molfile/basissetplugin.o
+/Projects/collaboratory/kvandivo/android-ndk-r10/toolchains/arm-linux-androideabi-4.6/prebuilt/linux-x86/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/as: /usr/lib/libz.so.1: no version information available (required by /Projects/collaboratory/kvandivo/android-ndk-r10/toolchains/arm-linux-androideabi-4.6/prebuilt/linux-x86/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/as)
+-fPIC -o ../compile/lib_ANDROIDARMV7A/molfile/bgfplugin.so ../compile/lib_ANDROIDARMV7A/molfile/bgfplugin.o
+/Projects/collaboratory/kvandivo/android-ndk-r10/toolchains/arm-linux-androideabi-4.6/prebuilt/linux-x86/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/as: /usr/lib/libz.so.1: no version information available (required by /Projects/collaboratory/kvandivo/android-ndk-r10/toolchains/arm-linux-androideabi-4.6/prebuilt/linux-x86/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/as)
+-fPIC -o ../compile/lib_ANDROIDARMV7A/molfile/binposplugin.so ../compile/lib_ANDROIDARMV7A/molfile/binposplugin.o
+/Projects/collaboratory/kvandivo/android-ndk-r10/toolchains/arm-linux-androideabi-4.6/prebuilt/linux-x86/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/as: /usr/lib/libz.so.1: no version information available (required by /Projects/collaboratory/kvandivo/android-ndk-r10/toolchains/arm-linux-androideabi-4.6/prebuilt/linux-x86/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/as)
+-fPIC -o ../compile/lib_ANDROIDARMV7A/molfile/biomoccaplugin.so ../compile/lib_ANDROIDARMV7A/molfile/biomoccaplugin.o
+/Projects/collaboratory/kvandivo/android-ndk-r10/toolchains/arm-linux-androideabi-4.6/prebuilt/linux-x86/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/as: /usr/lib/libz.so.1: no version information available (required by /Projects/collaboratory/kvandivo/android-ndk-r10/toolchains/arm-linux-androideabi-4.6/prebuilt/linux-x86/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/as)
+-fPIC -o ../compile/lib_ANDROIDARMV7A/molfile/brixplugin.so ../compile/lib_ANDROIDARMV7A/molfile/brixplugin.o
+/Projects/collaboratory/kvandivo/android-ndk-r10/toolchains/arm-linux-androideabi-4.6/prebuilt/linux-x86/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/as: /usr/lib/libz.so.1: no version information available (required by /Projects/collaboratory/kvandivo/android-ndk-r10/toolchains/arm-linux-androideabi-4.6/prebuilt/linux-x86/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/as)
+-fPIC -o ../compile/lib_ANDROIDARMV7A/molfile/carplugin.so ../compile/lib_ANDROIDARMV7A/molfile/carplugin.o
+src/ccp4plugin.C: In function 'int read_ccp4_data(void*, int, float*, float*)':
+src/ccp4plugin.C:365:68: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+src/endianswap.h: At global scope:
+src/endianswap.h:32:13: warning: 'void swap2_unaligned(void*, long int)' defined but not used [-Wunused-function]
+src/endianswap.h:46:13: warning: 'void swap4_unaligned(void*, long int)' defined but not used [-Wunused-function]
+src/endianswap.h:65:13: warning: 'void swap8_unaligned(void*, long int)' defined but not used [-Wunused-function]
+src/endianswap.h:96:13: warning: 'void swap2_aligned(void*, long int)' defined but not used [-Wunused-function]
+src/endianswap.h:124:13: warning: 'void swap8_aligned(void*, long int)' defined but not used [-Wunused-function]
+/Projects/collaboratory/kvandivo/android-ndk-r10/toolchains/arm-linux-androideabi-4.6/prebuilt/linux-x86/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/as: /usr/lib/libz.so.1: no version information available (required by /Projects/collaboratory/kvandivo/android-ndk-r10/toolchains/arm-linux-androideabi-4.6/prebuilt/linux-x86/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/as)
+-fPIC -o ../compile/lib_ANDROIDARMV7A/molfile/ccp4plugin.so ../compile/lib_ANDROIDARMV7A/molfile/ccp4plugin.o
+/Projects/collaboratory/kvandivo/android-ndk-r10/toolchains/arm-linux-androideabi-4.6/prebuilt/linux-x86/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/as: /usr/lib/libz.so.1: no version information available (required by /Projects/collaboratory/kvandivo/android-ndk-r10/toolchains/arm-linux-androideabi-4.6/prebuilt/linux-x86/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/as)
+-fPIC -o ../compile/lib_ANDROIDARMV7A/molfile/corplugin.so ../compile/lib_ANDROIDARMV7A/molfile/corplugin.o
+src/cpmdplugin.c:84:12: warning: 'read_cpmd_structure' defined but not used [-Wunused-function]
+/Projects/collaboratory/kvandivo/android-ndk-r10/toolchains/arm-linux-androideabi-4.6/prebuilt/linux-x86/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/as: /usr/lib/libz.so.1: no version information available (required by /Projects/collaboratory/kvandivo/android-ndk-r10/toolchains/arm-linux-androideabi-4.6/prebuilt/linux-x86/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/as)
+-fPIC -o ../compile/lib_ANDROIDARMV7A/molfile/cpmdplugin.so ../compile/lib_ANDROIDARMV7A/molfile/cpmdplugin.o
+/Projects/collaboratory/kvandivo/android-ndk-r10/toolchains/arm-linux-androideabi-4.6/prebuilt/linux-x86/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/as: /usr/lib/libz.so.1: no version information available (required by /Projects/collaboratory/kvandivo/android-ndk-r10/toolchains/arm-linux-androideabi-4.6/prebuilt/linux-x86/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/as)
+-fPIC -o ../compile/lib_ANDROIDARMV7A/molfile/crdplugin.so ../compile/lib_ANDROIDARMV7A/molfile/crdplugin.o
+src/periodic_table.h:133:12: warning: 'int get_pte_idx(char const*)' defined but not used [-Wunused-function]
+src/periodic_table.h:160:12: warning: 'int get_pte_idx_from_string(char const*)' defined but not used [-Wunused-function]
+/Projects/collaboratory/kvandivo/android-ndk-r10/toolchains/arm-linux-androideabi-4.6/prebuilt/linux-x86/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/as: /usr/lib/libz.so.1: no version information available (required by /Projects/collaboratory/kvandivo/android-ndk-r10/toolchains/arm-linux-androideabi-4.6/prebuilt/linux-x86/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/as)
+-fPIC -o ../compile/lib_ANDROIDARMV7A/molfile/cubeplugin.so ../compile/lib_ANDROIDARMV7A/molfile/cubeplugin.o
+src/dcdplugin.c: In function 'read_dcdstep':
+src/dcdplugin.c:578:5: warning: "/*" within comment [-Wcomment]
+src/dcdplugin.c:541:16: warning: variable 'readlen' set but not used [-Wunused-but-set-variable]
+src/dcdplugin.c: At top level:
+src/fastio.h:459:19: warning: 'fio_readv' defined but not used [-Wunused-function]
+src/fastio.h:595:12: warning: 'fio_read_int32' defined but not used [-Wunused-function]
+src/fastio.h:599:12: warning: 'fio_write_str' defined but not used [-Wunused-function]
+src/endianswap.h:32:13: warning: 'swap2_unaligned' defined but not used [-Wunused-function]
+src/endianswap.h:96:13: warning: 'swap2_aligned' defined but not used [-Wunused-function]
+/Projects/collaboratory/kvandivo/android-ndk-r10/toolchains/arm-linux-androideabi-4.6/prebuilt/linux-x86/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/as: /usr/lib/libz.so.1: no version information available (required by /Projects/collaboratory/kvandivo/android-ndk-r10/toolchains/arm-linux-androideabi-4.6/prebuilt/linux-x86/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/as)
+-fPIC -o ../compile/lib_ANDROIDARMV7A/molfile/dcdplugin.so ../compile/lib_ANDROIDARMV7A/molfile/dcdplugin.o
+/Projects/collaboratory/kvandivo/android-ndk-r10/toolchains/arm-linux-androideabi-4.6/prebuilt/linux-x86/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/as: /usr/lib/libz.so.1: no version information available (required by /Projects/collaboratory/kvandivo/android-ndk-r10/toolchains/arm-linux-androideabi-4.6/prebuilt/linux-x86/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/as)
+-fPIC -o ../compile/lib_ANDROIDARMV7A/molfile/dlpolyplugin.so ../compile/lib_ANDROIDARMV7A/molfile/dlpolyplugin.o
+src/endianswap.h:46:13: warning: 'void swap4_unaligned(void*, long int)' defined but not used [-Wunused-function]
+src/endianswap.h:65:13: warning: 'void swap8_unaligned(void*, long int)' defined but not used [-Wunused-function]
+src/endianswap.h:110:13: warning: 'void swap4_aligned(void*, long int)' defined but not used [-Wunused-function]
+src/endianswap.h:124:13: warning: 'void swap8_aligned(void*, long int)' defined but not used [-Wunused-function]
+/Projects/collaboratory/kvandivo/android-ndk-r10/toolchains/arm-linux-androideabi-4.6/prebuilt/linux-x86/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/as: /usr/lib/libz.so.1: no version information available (required by /Projects/collaboratory/kvandivo/android-ndk-r10/toolchains/arm-linux-androideabi-4.6/prebuilt/linux-x86/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/as)
+-fPIC -o ../compile/lib_ANDROIDARMV7A/molfile/dsn6plugin.so ../compile/lib_ANDROIDARMV7A/molfile/dsn6plugin.o
+/Projects/collaboratory/kvandivo/android-ndk-r10/toolchains/arm-linux-androideabi-4.6/prebuilt/linux-x86/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/as: /usr/lib/libz.so.1: no version information available (required by /Projects/collaboratory/kvandivo/android-ndk-r10/toolchains/arm-linux-androideabi-4.6/prebuilt/linux-x86/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/as)
+-fPIC -o ../compile/lib_ANDROIDARMV7A/molfile/dxplugin.so ../compile/lib_ANDROIDARMV7A/molfile/dxplugin.o
+/Projects/collaboratory/kvandivo/android-ndk-r10/toolchains/arm-linux-androideabi-4.6/prebuilt/linux-x86/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/as: /usr/lib/libz.so.1: no version information available (required by /Projects/collaboratory/kvandivo/android-ndk-r10/toolchains/arm-linux-androideabi-4.6/prebuilt/linux-x86/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/as)
+-fPIC -o ../compile/lib_ANDROIDARMV7A/molfile/edmplugin.so ../compile/lib_ANDROIDARMV7A/molfile/edmplugin.o
+src/endianswap.h:32:13: warning: 'void swap2_unaligned(void*, long int)' defined but not used [-Wunused-function]
+src/endianswap.h:46:13: warning: 'void swap4_unaligned(void*, long int)' defined but not used [-Wunused-function]
+src/endianswap.h:65:13: warning: 'void swap8_unaligned(void*, long int)' defined but not used [-Wunused-function]
+src/endianswap.h:96:13: warning: 'void swap2_aligned(void*, long int)' defined but not used [-Wunused-function]
+src/endianswap.h:124:13: warning: 'void swap8_aligned(void*, long int)' defined but not used [-Wunused-function]
+src/fortread.h:36:12: warning: 'int fort_eat_recmark(FILE*, int)' defined but not used [-Wunused-function]
+src/fortread.h:55:12: warning: 'int fort_get_endian_reclen(int, int, int, int*, int*)' defined but not used [-Wunused-function]
+src/fortread.h:133:13: warning: 'void strnwscpy(char*, char const*, int)' defined but not used [-Wunused-function]
+/Projects/collaboratory/kvandivo/android-ndk-r10/toolchains/arm-linux-androideabi-4.6/prebuilt/linux-x86/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/as: /usr/lib/libz.so.1: no version information available (required by /Projects/collaboratory/kvandivo/android-ndk-r10/toolchains/arm-linux-androideabi-4.6/prebuilt/linux-x86/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/as)
+-fPIC -o ../compile/lib_ANDROIDARMV7A/molfile/fs4plugin.so ../compile/lib_ANDROIDARMV7A/molfile/fs4plugin.o
+src/gamessplugin.c: In function 'have_gamess':
+src/gamessplugin.c:1101:8: warning: variable 'word' set but not used [-Wunused-but-set-variable]
+src/gamessplugin.c: In function 'get_basis_stats':
+src/gamessplugin.c:2259:8: warning: variable 'word' set but not used [-Wunused-but-set-variable]
+src/gamessplugin.c: In function 'get_wavefunction':
+src/gamessplugin.c:3568:8: warning: variable 'word' set but not used [-Wunused-but-set-variable]
+src/gamessplugin.c: At top level:
+src/qmplugin.h:895:12: warning: 'iswhiteline' defined but not used [-Wunused-function]
+src/qmplugin.h:901:14: warning: 'strtoupper' defined but not used [-Wunused-function]
+src/qmplugin.h:1077:13: warning: 'thisline' defined but not used [-Wunused-function]
+src/qmplugin.h:1097:13: warning: 'whereami' defined but not used [-Wunused-function]
+src/qmplugin.h:585:13: warning: 'print_matrix4' defined but not used [-Wunused-function]
+src/qmplugin.h:1028:12: warning: 'fpexpftoc' defined but not used [-Wunused-function]
+src/periodic_table.h:95:20: warning: 'get_pte_label' defined but not used [-Wunused-function]
+src/periodic_table.h:102:14: warning: 'get_pte_mass' defined but not used [-Wunused-function]
+src/periodic_table.h:109:14: warning: 'get_pte_vdw_radius' defined but not used [-Wunused-function]
+src/periodic_table.h:133:12: warning: 'get_pte_idx' defined but not used [-Wunused-function]
+src/gamessplugin.c:997:13: warning: 'print_input_data' defined but not used [-Wunused-function]
+/Projects/collaboratory/kvandivo/android-ndk-r10/toolchains/arm-linux-androideabi-4.6/prebuilt/linux-x86/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/as: /usr/lib/libz.so.1: no version information available (required by /Projects/collaboratory/kvandivo/android-ndk-r10/toolchains/arm-linux-androideabi-4.6/prebuilt/linux-x86/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/as)
+-fPIC -o ../compile/lib_ANDROIDARMV7A/molfile/gamessplugin.so ../compile/lib_ANDROIDARMV7A/molfile/gamessplugin.o
+src/endianswap.h:32:13: warning: 'void swap2_unaligned(void*, long int)' defined but not used [-Wunused-function]
+src/endianswap.h:46:13: warning: 'void swap4_unaligned(void*, long int)' defined but not used [-Wunused-function]
+src/endianswap.h:65:13: warning: 'void swap8_unaligned(void*, long int)' defined but not used [-Wunused-function]
+src/endianswap.h:124:13: warning: 'void swap8_aligned(void*, long int)' defined but not used [-Wunused-function]
+/Projects/collaboratory/kvandivo/android-ndk-r10/toolchains/arm-linux-androideabi-4.6/prebuilt/linux-x86/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/as: /usr/lib/libz.so.1: no version information available (required by /Projects/collaboratory/kvandivo/android-ndk-r10/toolchains/arm-linux-androideabi-4.6/prebuilt/linux-x86/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/as)
+-fPIC -o ../compile/lib_ANDROIDARMV7A/molfile/graspplugin.so ../compile/lib_ANDROIDARMV7A/molfile/graspplugin.o
+src/endianswap.h:32:13: warning: 'void swap2_unaligned(void*, long int)' defined but not used [-Wunused-function]
+src/endianswap.h:46:13: warning: 'void swap4_unaligned(void*, long int)' defined but not used [-Wunused-function]
+src/endianswap.h:65:13: warning: 'void swap8_unaligned(void*, long int)' defined but not used [-Wunused-function]
+src/endianswap.h:96:13: warning: 'void swap2_aligned(void*, long int)' defined but not used [-Wunused-function]
+src/endianswap.h:124:13: warning: 'void swap8_aligned(void*, long int)' defined but not used [-Wunused-function]
+/Projects/collaboratory/kvandivo/android-ndk-r10/toolchains/arm-linux-androideabi-4.6/prebuilt/linux-x86/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/as: /usr/lib/libz.so.1: no version information available (required by /Projects/collaboratory/kvandivo/android-ndk-r10/toolchains/arm-linux-androideabi-4.6/prebuilt/linux-x86/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/as)
+-fPIC -o ../compile/lib_ANDROIDARMV7A/molfile/grdplugin.so ../compile/lib_ANDROIDARMV7A/molfile/grdplugin.o
+src/endianswap.h:32:13: warning: 'void swap2_unaligned(void*, long int)' defined but not used [-Wunused-function]
+src/endianswap.h:46:13: warning: 'void swap4_unaligned(void*, long int)' defined but not used [-Wunused-function]
+src/endianswap.h:65:13: warning: 'void swap8_unaligned(void*, long int)' defined but not used [-Wunused-function]
+src/endianswap.h:96:13: warning: 'void swap2_aligned(void*, long int)' defined but not used [-Wunused-function]
+src/endianswap.h:124:13: warning: 'void swap8_aligned(void*, long int)' defined but not used [-Wunused-function]
+src/fortread.h:36:12: warning: 'int fort_eat_recmark(FILE*, int)' defined but not used [-Wunused-function]
+src/fortread.h:55:12: warning: 'int fort_get_endian_reclen(int, int, int, int*, int*)' defined but not used [-Wunused-function]
+src/fortread.h:133:13: warning: 'void strnwscpy(char*, char const*, int)' defined but not used [-Wunused-function]
+/Projects/collaboratory/kvandivo/android-ndk-r10/toolchains/arm-linux-androideabi-4.6/prebuilt/linux-x86/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/as: /usr/lib/libz.so.1: no version information available (required by /Projects/collaboratory/kvandivo/android-ndk-r10/toolchains/arm-linux-androideabi-4.6/prebuilt/linux-x86/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/as)
+-fPIC -o ../compile/lib_ANDROIDARMV7A/molfile/gridplugin.so ../compile/lib_ANDROIDARMV7A/molfile/gridplugin.o
+src/endianswap.h:32:13: warning: 'void swap2_unaligned(void*, long int)' defined but not used [-Wunused-function]
+src/endianswap.h:46:13: warning: 'void swap4_unaligned(void*, long int)' defined but not used [-Wunused-function]
+src/endianswap.h:65:13: warning: 'void swap8_unaligned(void*, long int)' defined but not used [-Wunused-function]
+src/endianswap.h:96:13: warning: 'void swap2_aligned(void*, long int)' defined but not used [-Wunused-function]
+/Projects/collaboratory/kvandivo/android-ndk-r10/toolchains/arm-linux-androideabi-4.6/prebuilt/linux-x86/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/as: /usr/lib/libz.so.1: no version information available (required by /Projects/collaboratory/kvandivo/android-ndk-r10/toolchains/arm-linux-androideabi-4.6/prebuilt/linux-x86/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/as)
+-fPIC -o ../compile/lib_ANDROIDARMV7A/molfile/gromacsplugin.so ../compile/lib_ANDROIDARMV7A/molfile/gromacsplugin.o
+src/fastio.h:459:19: warning: 'fio_readv' defined but not used [-Wunused-function]
+src/hash.c:183:21: warning: 'hash_delete' defined but not used [-Wunused-function]
+src/hash.c:280:24: warning: 'hash_stats' defined but not used [-Wunused-function]
+src/endianswap.h:32:13: warning: 'swap2_unaligned' defined but not used [-Wunused-function]
+src/endianswap.h:46:13: warning: 'swap4_unaligned' defined but not used [-Wunused-function]
+src/endianswap.h:65:13: warning: 'swap8_unaligned' defined but not used [-Wunused-function]
+/Projects/collaboratory/kvandivo/android-ndk-r10/toolchains/arm-linux-androideabi-4.6/prebuilt/linux-x86/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/as: /usr/lib/libz.so.1: no version information available (required by /Projects/collaboratory/kvandivo/android-ndk-r10/toolchains/arm-linux-androideabi-4.6/prebuilt/linux-x86/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/as)
+-fPIC -o ../compile/lib_ANDROIDARMV7A/molfile/jsplugin.so ../compile/lib_ANDROIDARMV7A/molfile/jsplugin.o
+src/periodic_table.h:95:20: warning: 'get_pte_label' defined but not used [-Wunused-function]
+src/periodic_table.h:160:12: warning: 'get_pte_idx_from_string' defined but not used [-Wunused-function]
+src/hash.c:183:21: warning: 'hash_delete' defined but not used [-Wunused-function]
+src/hash.c:223:21: warning: 'hash_entries' defined but not used [-Wunused-function]
+src/hash.c:280:24: warning: 'hash_stats' defined but not used [-Wunused-function]
+src/inthash.c:182:21: warning: 'inthash_delete' defined but not used [-Wunused-function]
+src/inthash.c:277:24: warning: 'inthash_stats' defined but not used [-Wunused-function]
+/Projects/collaboratory/kvandivo/android-ndk-r10/toolchains/arm-linux-androideabi-4.6/prebuilt/linux-x86/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/as: /usr/lib/libz.so.1: no version information available (required by /Projects/collaboratory/kvandivo/android-ndk-r10/toolchains/arm-linux-androideabi-4.6/prebuilt/linux-x86/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/as)
+-fPIC -o ../compile/lib_ANDROIDARMV7A/molfile/lammpsplugin.so ../compile/lib_ANDROIDARMV7A/molfile/lammpsplugin.o
+/Projects/collaboratory/kvandivo/android-ndk-r10/toolchains/arm-linux-androideabi-4.6/prebuilt/linux-x86/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/as: /usr/lib/libz.so.1: no version information available (required by /Projects/collaboratory/kvandivo/android-ndk-r10/toolchains/arm-linux-androideabi-4.6/prebuilt/linux-x86/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/as)
+-fPIC -o ../compile/lib_ANDROIDARMV7A/molfile/mapplugin.so ../compile/lib_ANDROIDARMV7A/molfile/mapplugin.o
+src/hash.c:183:21: warning: 'int hash_delete(hash_t*, char const*)' defined but not used [-Wunused-function]
+src/hash.c:223:21: warning: 'int hash_entries(hash_t*)' defined but not used [-Wunused-function]
+src/hash.c:280:24: warning: 'char* hash_stats(hash_t*)' defined but not used [-Wunused-function]
+/Projects/collaboratory/kvandivo/android-ndk-r10/toolchains/arm-linux-androideabi-4.6/prebuilt/linux-x86/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/as: /usr/lib/libz.so.1: no version information available (required by /Projects/collaboratory/kvandivo/android-ndk-r10/toolchains/arm-linux-androideabi-4.6/prebuilt/linux-x86/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/as)
+-fPIC -o ../compile/lib_ANDROIDARMV7A/molfile/mdfplugin.so ../compile/lib_ANDROIDARMV7A/molfile/mdfplugin.o
+/Projects/collaboratory/kvandivo/android-ndk-r10/toolchains/arm-linux-androideabi-4.6/prebuilt/linux-x86/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/as: /usr/lib/libz.so.1: no version information available (required by /Projects/collaboratory/kvandivo/android-ndk-r10/toolchains/arm-linux-androideabi-4.6/prebuilt/linux-x86/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/as)
+-fPIC -o ../compile/lib_ANDROIDARMV7A/molfile/mol2plugin.so ../compile/lib_ANDROIDARMV7A/molfile/mol2plugin.o
+src/moldenplugin.c: In function 'read_molden_rundata':
+src/moldenplugin.c:591:25: warning: variable 'hessian_data' set but not used [-Wunused-but-set-variable]
+src/moldenplugin.c: In function 'read_wave_coeffs':
+src/moldenplugin.c:1278:7: warning: format '%s' expects argument of type 'char *', but argument 3 has type 'char (*)[10]' [-Wformat]
+src/moldenplugin.c: At top level:
+src/periodic_table.h:95:20: warning: 'get_pte_label' defined but not used [-Wunused-function]
+src/periodic_table.h:102:14: warning: 'get_pte_mass' defined but not used [-Wunused-function]
+src/periodic_table.h:109:14: warning: 'get_pte_vdw_radius' defined but not used [-Wunused-function]
+src/periodic_table.h:133:12: warning: 'get_pte_idx' defined but not used [-Wunused-function]
+src/qmplugin.h:711:12: warning: 'symmetry_expand' defined but not used [-Wunused-function]
+src/qmplugin.h:1006:12: warning: 'have_keyline' defined but not used [-Wunused-function]
+src/qmplugin.h:1077:13: warning: 'thisline' defined but not used [-Wunused-function]
+src/qmplugin.h:1097:13: warning: 'whereami' defined but not used [-Wunused-function]
+src/qmplugin.h:490:13: warning: 'replace_wavefunction' defined but not used [-Wunused-function]
+src/qmplugin.h:507:13: warning: 'del_wavefunction' defined but not used [-Wunused-function]
+src/qmplugin.h:585:13: warning: 'print_matrix4' defined but not used [-Wunused-function]
+/Projects/collaboratory/kvandivo/android-ndk-r10/toolchains/arm-linux-androideabi-4.6/prebuilt/linux-x86/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/as: /usr/lib/libz.so.1: no version information available (required by /Projects/collaboratory/kvandivo/android-ndk-r10/toolchains/arm-linux-androideabi-4.6/prebuilt/linux-x86/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/as)
+-fPIC -o ../compile/lib_ANDROIDARMV7A/molfile/moldenplugin.so ../compile/lib_ANDROIDARMV7A/molfile/moldenplugin.o
+/Projects/collaboratory/kvandivo/android-ndk-r10/toolchains/arm-linux-androideabi-4.6/prebuilt/linux-x86/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/as: /usr/lib/libz.so.1: no version information available (required by /Projects/collaboratory/kvandivo/android-ndk-r10/toolchains/arm-linux-androideabi-4.6/prebuilt/linux-x86/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/as)
+-fPIC -o ../compile/lib_ANDROIDARMV7A/molfile/molemeshplugin.so ../compile/lib_ANDROIDARMV7A/molfile/molemeshplugin.o
+/Projects/collaboratory/kvandivo/android-ndk-r10/toolchains/arm-linux-androideabi-4.6/prebuilt/linux-x86/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/as: /usr/lib/libz.so.1: no version information available (required by /Projects/collaboratory/kvandivo/android-ndk-r10/toolchains/arm-linux-androideabi-4.6/prebuilt/linux-x86/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/as)
+-fPIC -o ../compile/lib_ANDROIDARMV7A/molfile/msmsplugin.so ../compile/lib_ANDROIDARMV7A/molfile/msmsplugin.o
+/Projects/collaboratory/kvandivo/android-ndk-r10/toolchains/arm-linux-androideabi-4.6/prebuilt/linux-x86/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/as: /usr/lib/libz.so.1: no version information available (required by /Projects/collaboratory/kvandivo/android-ndk-r10/toolchains/arm-linux-androideabi-4.6/prebuilt/linux-x86/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/as)
+-fPIC -o ../compile/lib_ANDROIDARMV7A/molfile/namdbinplugin.so ../compile/lib_ANDROIDARMV7A/molfile/namdbinplugin.o
+/Projects/collaboratory/kvandivo/android-ndk-r10/toolchains/arm-linux-androideabi-4.6/prebuilt/linux-x86/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/as: /usr/lib/libz.so.1: no version information available (required by /Projects/collaboratory/kvandivo/android-ndk-r10/toolchains/arm-linux-androideabi-4.6/prebuilt/linux-x86/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/as)
+-fPIC -o ../compile/lib_ANDROIDARMV7A/molfile/offplugin.so ../compile/lib_ANDROIDARMV7A/molfile/offplugin.o
+/Projects/collaboratory/kvandivo/android-ndk-r10/toolchains/arm-linux-androideabi-4.6/prebuilt/linux-x86/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/as: /usr/lib/libz.so.1: no version information available (required by /Projects/collaboratory/kvandivo/android-ndk-r10/toolchains/arm-linux-androideabi-4.6/prebuilt/linux-x86/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/as)
+-fPIC -o ../compile/lib_ANDROIDARMV7A/molfile/parm7plugin.so ../compile/lib_ANDROIDARMV7A/molfile/parm7plugin.o
+/Projects/collaboratory/kvandivo/android-ndk-r10/toolchains/arm-linux-androideabi-4.6/prebuilt/linux-x86/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/as: /usr/lib/libz.so.1: no version information available (required by /Projects/collaboratory/kvandivo/android-ndk-r10/toolchains/arm-linux-androideabi-4.6/prebuilt/linux-x86/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/as)
+-fPIC -o ../compile/lib_ANDROIDARMV7A/molfile/parmplugin.so ../compile/lib_ANDROIDARMV7A/molfile/parmplugin.o
+src/endianswap.h:32:13: warning: 'void swap2_unaligned(void*, long int)' defined but not used [-Wunused-function]
+src/endianswap.h:46:13: warning: 'void swap4_unaligned(void*, long int)' defined but not used [-Wunused-function]
+src/endianswap.h:65:13: warning: 'void swap8_unaligned(void*, long int)' defined but not used [-Wunused-function]
+src/endianswap.h:96:13: warning: 'void swap2_aligned(void*, long int)' defined but not used [-Wunused-function]
+/Projects/collaboratory/kvandivo/android-ndk-r10/toolchains/arm-linux-androideabi-4.6/prebuilt/linux-x86/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/as: /usr/lib/libz.so.1: no version information available (required by /Projects/collaboratory/kvandivo/android-ndk-r10/toolchains/arm-linux-androideabi-4.6/prebuilt/linux-x86/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/as)
+-fPIC -o ../compile/lib_ANDROIDARMV7A/molfile/pbeqplugin.so ../compile/lib_ANDROIDARMV7A/molfile/pbeqplugin.o
+src/periodic_table.h:133:12: warning: 'get_pte_idx' defined but not used [-Wunused-function]
+/Projects/collaboratory/kvandivo/android-ndk-r10/toolchains/arm-linux-androideabi-4.6/prebuilt/linux-x86/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/as: /usr/lib/libz.so.1: no version information available (required by /Projects/collaboratory/kvandivo/android-ndk-r10/toolchains/arm-linux-androideabi-4.6/prebuilt/linux-x86/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/as)
+-fPIC -o ../compile/lib_ANDROIDARMV7A/molfile/pdbplugin.so ../compile/lib_ANDROIDARMV7A/molfile/pdbplugin.o
+/Projects/collaboratory/kvandivo/android-ndk-r10/toolchains/arm-linux-androideabi-4.6/prebuilt/linux-x86/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/as: /usr/lib/libz.so.1: no version information available (required by /Projects/collaboratory/kvandivo/android-ndk-r10/toolchains/arm-linux-androideabi-4.6/prebuilt/linux-x86/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/as)
+-fPIC -o ../compile/lib_ANDROIDARMV7A/molfile/phiplugin.so ../compile/lib_ANDROIDARMV7A/molfile/phiplugin.o
+src/pltplugin.C: In function 'int read_plt_data(void*, int, float*, float*)':
+src/pltplugin.C:138:54: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+src/endianswap.h: At global scope:
+src/endianswap.h:32:13: warning: 'void swap2_unaligned(void*, long int)' defined but not used [-Wunused-function]
+src/endianswap.h:46:13: warning: 'void swap4_unaligned(void*, long int)' defined but not used [-Wunused-function]
+src/endianswap.h:65:13: warning: 'void swap8_unaligned(void*, long int)' defined but not used [-Wunused-function]
+src/endianswap.h:96:13: warning: 'void swap2_aligned(void*, long int)' defined but not used [-Wunused-function]
+src/endianswap.h:124:13: warning: 'void swap8_aligned(void*, long int)' defined but not used [-Wunused-function]
+/Projects/collaboratory/kvandivo/android-ndk-r10/toolchains/arm-linux-androideabi-4.6/prebuilt/linux-x86/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/as: /usr/lib/libz.so.1: no version information available (required by /Projects/collaboratory/kvandivo/android-ndk-r10/toolchains/arm-linux-androideabi-4.6/prebuilt/linux-x86/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/as)
+-fPIC -o ../compile/lib_ANDROIDARMV7A/molfile/pltplugin.so ../compile/lib_ANDROIDARMV7A/molfile/pltplugin.o
+src/pqrplugin.c: In function 'get_atom_radius':
+src/pqrplugin.c:161:16: warning: variable 'type' set but not used [-Wunused-but-set-variable]
+src/pqrplugin.c:161:9: warning: variable 'name' set but not used [-Wunused-but-set-variable]
+/Projects/collaboratory/kvandivo/android-ndk-r10/toolchains/arm-linux-androideabi-4.6/prebuilt/linux-x86/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/as: /usr/lib/libz.so.1: no version information available (required by /Projects/collaboratory/kvandivo/android-ndk-r10/toolchains/arm-linux-androideabi-4.6/prebuilt/linux-x86/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/as)
+-fPIC -o ../compile/lib_ANDROIDARMV7A/molfile/pqrplugin.so ../compile/lib_ANDROIDARMV7A/molfile/pqrplugin.o
+src/endianswap.h:32:13: warning: 'swap2_unaligned' defined but not used [-Wunused-function]
+src/endianswap.h:46:13: warning: 'swap4_unaligned' defined but not used [-Wunused-function]
+src/endianswap.h:65:13: warning: 'swap8_unaligned' defined but not used [-Wunused-function]
+src/endianswap.h:96:13: warning: 'swap2_aligned' defined but not used [-Wunused-function]
+src/endianswap.h:124:13: warning: 'swap8_aligned' defined but not used [-Wunused-function]
+src/fortread.h:36:12: warning: 'fort_eat_recmark' defined but not used [-Wunused-function]
+src/fortread.h:55:12: warning: 'fort_get_endian_reclen' defined but not used [-Wunused-function]
+src/fortread.h:103:12: warning: 'fortread_4' defined but not used [-Wunused-function]
+/Projects/collaboratory/kvandivo/android-ndk-r10/toolchains/arm-linux-androideabi-4.6/prebuilt/linux-x86/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/as: /usr/lib/libz.so.1: no version information available (required by /Projects/collaboratory/kvandivo/android-ndk-r10/toolchains/arm-linux-androideabi-4.6/prebuilt/linux-x86/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/as)
+-fPIC -o ../compile/lib_ANDROIDARMV7A/molfile/psfplugin.so ../compile/lib_ANDROIDARMV7A/molfile/psfplugin.o
+/Projects/collaboratory/kvandivo/android-ndk-r10/toolchains/arm-linux-androideabi-4.6/prebuilt/linux-x86/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/as: /usr/lib/libz.so.1: no version information available (required by /Projects/collaboratory/kvandivo/android-ndk-r10/toolchains/arm-linux-androideabi-4.6/prebuilt/linux-x86/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/as)
+-fPIC -o ../compile/lib_ANDROIDARMV7A/molfile/raster3dplugin.so ../compile/lib_ANDROIDARMV7A/molfile/raster3dplugin.o
+src/rst7plugin.c: In function 'open_rst_read':
+src/rst7plugin.c:43:11: warning: variable 'timesteprst' set but not used [-Wunused-but-set-variable]
+/Projects/collaboratory/kvandivo/android-ndk-r10/toolchains/arm-linux-androideabi-4.6/prebuilt/linux-x86/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/as: /usr/lib/libz.so.1: no version information available (required by /Projects/collaboratory/kvandivo/android-ndk-r10/toolchains/arm-linux-androideabi-4.6/prebuilt/linux-x86/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/as)
+-fPIC -o ../compile/lib_ANDROIDARMV7A/molfile/rst7plugin.so ../compile/lib_ANDROIDARMV7A/molfile/rst7plugin.o
+/Projects/collaboratory/kvandivo/android-ndk-r10/toolchains/arm-linux-androideabi-4.6/prebuilt/linux-x86/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/as: /usr/lib/libz.so.1: no version information available (required by /Projects/collaboratory/kvandivo/android-ndk-r10/toolchains/arm-linux-androideabi-4.6/prebuilt/linux-x86/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/as)
+-fPIC -o ../compile/lib_ANDROIDARMV7A/molfile/situsplugin.so ../compile/lib_ANDROIDARMV7A/molfile/situsplugin.o
+src/endianswap.h:32:13: warning: 'void swap2_unaligned(void*, long int)' defined but not used [-Wunused-function]
+src/endianswap.h:46:13: warning: 'void swap4_unaligned(void*, long int)' defined but not used [-Wunused-function]
+src/endianswap.h:65:13: warning: 'void swap8_unaligned(void*, long int)' defined but not used [-Wunused-function]
+src/endianswap.h:96:13: warning: 'void swap2_aligned(void*, long int)' defined but not used [-Wunused-function]
+src/endianswap.h:124:13: warning: 'void swap8_aligned(void*, long int)' defined but not used [-Wunused-function]
+/Projects/collaboratory/kvandivo/android-ndk-r10/toolchains/arm-linux-androideabi-4.6/prebuilt/linux-x86/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/as: /usr/lib/libz.so.1: no version information available (required by /Projects/collaboratory/kvandivo/android-ndk-r10/toolchains/arm-linux-androideabi-4.6/prebuilt/linux-x86/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/as)
+-fPIC -o ../compile/lib_ANDROIDARMV7A/molfile/spiderplugin.so ../compile/lib_ANDROIDARMV7A/molfile/spiderplugin.o
+/Projects/collaboratory/kvandivo/android-ndk-r10/toolchains/arm-linux-androideabi-4.6/prebuilt/linux-x86/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/as: /usr/lib/libz.so.1: no version information available (required by /Projects/collaboratory/kvandivo/android-ndk-r10/toolchains/arm-linux-androideabi-4.6/prebuilt/linux-x86/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/as)
+-fPIC -o ../compile/lib_ANDROIDARMV7A/molfile/stlplugin.so ../compile/lib_ANDROIDARMV7A/molfile/stlplugin.o
+/Projects/collaboratory/kvandivo/android-ndk-r10/toolchains/arm-linux-androideabi-4.6/prebuilt/linux-x86/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/as: /usr/lib/libz.so.1: no version information available (required by /Projects/collaboratory/kvandivo/android-ndk-r10/toolchains/arm-linux-androideabi-4.6/prebuilt/linux-x86/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/as)
+-fPIC -o ../compile/lib_ANDROIDARMV7A/molfile/tinkerplugin.so ../compile/lib_ANDROIDARMV7A/molfile/tinkerplugin.o
+src/uhbdplugin.C: In function 'void* open_uhbd_read(char const*, char const*, int*)':
+src/uhbdplugin.C:85:22: warning: variable 'o' set but not used [-Wunused-but-set-variable]
+src/uhbdplugin.C:85:28: warning: variable 's' set but not used [-Wunused-but-set-variable]
+src/uhbdplugin.C: In function 'int read_uhbd_data(void*, int, float*, float*)':
+src/uhbdplugin.C:249:69: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+src/endianswap.h: At global scope:
+src/endianswap.h:32:13: warning: 'void swap2_unaligned(void*, long int)' defined but not used [-Wunused-function]
+src/endianswap.h:65:13: warning: 'void swap8_unaligned(void*, long int)' defined but not used [-Wunused-function]
+src/endianswap.h:96:13: warning: 'void swap2_aligned(void*, long int)' defined but not used [-Wunused-function]
+src/endianswap.h:124:13: warning: 'void swap8_aligned(void*, long int)' defined but not used [-Wunused-function]
+/Projects/collaboratory/kvandivo/android-ndk-r10/toolchains/arm-linux-androideabi-4.6/prebuilt/linux-x86/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/as: /usr/lib/libz.so.1: no version information available (required by /Projects/collaboratory/kvandivo/android-ndk-r10/toolchains/arm-linux-androideabi-4.6/prebuilt/linux-x86/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/as)
+-fPIC -o ../compile/lib_ANDROIDARMV7A/molfile/uhbdplugin.so ../compile/lib_ANDROIDARMV7A/molfile/uhbdplugin.o
+src/vaspplugin.h:111:13: warning: 'vasp_timestep_unitcell' defined but not used [-Wunused-function]
+/Projects/collaboratory/kvandivo/android-ndk-r10/toolchains/arm-linux-androideabi-4.6/prebuilt/linux-x86/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/as: /usr/lib/libz.so.1: no version information available (required by /Projects/collaboratory/kvandivo/android-ndk-r10/toolchains/arm-linux-androideabi-4.6/prebuilt/linux-x86/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/as)
+-fPIC -o ../compile/lib_ANDROIDARMV7A/molfile/vaspchgcarplugin.so ../compile/lib_ANDROIDARMV7A/molfile/vaspchgcarplugin.o
+src/periodic_table.h:160:12: warning: 'get_pte_idx_from_string' defined but not used [-Wunused-function]
+/Projects/collaboratory/kvandivo/android-ndk-r10/toolchains/arm-linux-androideabi-4.6/prebuilt/linux-x86/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/as: /usr/lib/libz.so.1: no version information available (required by /Projects/collaboratory/kvandivo/android-ndk-r10/toolchains/arm-linux-androideabi-4.6/prebuilt/linux-x86/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/as)
+-fPIC -o ../compile/lib_ANDROIDARMV7A/molfile/vaspoutcarplugin.so ../compile/lib_ANDROIDARMV7A/molfile/vaspoutcarplugin.o
+src/vaspplugin.h:111:13: warning: 'vasp_timestep_unitcell' defined but not used [-Wunused-function]
+/Projects/collaboratory/kvandivo/android-ndk-r10/toolchains/arm-linux-androideabi-4.6/prebuilt/linux-x86/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/as: /usr/lib/libz.so.1: no version information available (required by /Projects/collaboratory/kvandivo/android-ndk-r10/toolchains/arm-linux-androideabi-4.6/prebuilt/linux-x86/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/as)
+-fPIC -o ../compile/lib_ANDROIDARMV7A/molfile/vaspparchgplugin.so ../compile/lib_ANDROIDARMV7A/molfile/vaspparchgplugin.o
+src/periodic_table.h:160:12: warning: 'get_pte_idx_from_string' defined but not used [-Wunused-function]
+/Projects/collaboratory/kvandivo/android-ndk-r10/toolchains/arm-linux-androideabi-4.6/prebuilt/linux-x86/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/as: /usr/lib/libz.so.1: no version information available (required by /Projects/collaboratory/kvandivo/android-ndk-r10/toolchains/arm-linux-androideabi-4.6/prebuilt/linux-x86/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/as)
+-fPIC -o ../compile/lib_ANDROIDARMV7A/molfile/vaspposcarplugin.so ../compile/lib_ANDROIDARMV7A/molfile/vaspposcarplugin.o
+src/periodic_table.h:160:12: warning: 'get_pte_idx_from_string' defined but not used [-Wunused-function]
+/Projects/collaboratory/kvandivo/android-ndk-r10/toolchains/arm-linux-androideabi-4.6/prebuilt/linux-x86/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/as: /usr/lib/libz.so.1: no version information available (required by /Projects/collaboratory/kvandivo/android-ndk-r10/toolchains/arm-linux-androideabi-4.6/prebuilt/linux-x86/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/as)
+-fPIC -o ../compile/lib_ANDROIDARMV7A/molfile/vasp5xdatcarplugin.so ../compile/lib_ANDROIDARMV7A/molfile/vasp5xdatcarplugin.o
+src/periodic_table.h:160:12: warning: 'get_pte_idx_from_string' defined but not used [-Wunused-function]
+/Projects/collaboratory/kvandivo/android-ndk-r10/toolchains/arm-linux-androideabi-4.6/prebuilt/linux-x86/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/as: /usr/lib/libz.so.1: no version information available (required by /Projects/collaboratory/kvandivo/android-ndk-r10/toolchains/arm-linux-androideabi-4.6/prebuilt/linux-x86/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/as)
+-fPIC -o ../compile/lib_ANDROIDARMV7A/molfile/vaspxdatcarplugin.so ../compile/lib_ANDROIDARMV7A/molfile/vaspxdatcarplugin.o
+src/periodic_table.h:160:12: warning: 'get_pte_idx_from_string' defined but not used [-Wunused-function]
+/Projects/collaboratory/kvandivo/android-ndk-r10/toolchains/arm-linux-androideabi-4.6/prebuilt/linux-x86/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/as: /usr/lib/libz.so.1: no version information available (required by /Projects/collaboratory/kvandivo/android-ndk-r10/toolchains/arm-linux-androideabi-4.6/prebuilt/linux-x86/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/as)
+-fPIC -o ../compile/lib_ANDROIDARMV7A/molfile/vaspxmlplugin.so ../compile/lib_ANDROIDARMV7A/molfile/vaspxmlplugin.o
+/Projects/collaboratory/kvandivo/android-ndk-r10/toolchains/arm-linux-androideabi-4.6/prebuilt/linux-x86/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/as: /usr/lib/libz.so.1: no version information available (required by /Projects/collaboratory/kvandivo/android-ndk-r10/toolchains/arm-linux-androideabi-4.6/prebuilt/linux-x86/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/as)
+-fPIC -o ../compile/lib_ANDROIDARMV7A/molfile/xbgfplugin.so ../compile/lib_ANDROIDARMV7A/molfile/xbgfplugin.o
+src/periodic_table.h:160:12: warning: 'int get_pte_idx_from_string(char const*)' defined but not used [-Wunused-function]
+/Projects/collaboratory/kvandivo/android-ndk-r10/toolchains/arm-linux-androideabi-4.6/prebuilt/linux-x86/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/as: /usr/lib/libz.so.1: no version information available (required by /Projects/collaboratory/kvandivo/android-ndk-r10/toolchains/arm-linux-androideabi-4.6/prebuilt/linux-x86/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/as)
+-fPIC -o ../compile/lib_ANDROIDARMV7A/molfile/xsfplugin.so ../compile/lib_ANDROIDARMV7A/molfile/xsfplugin.o
+src/periodic_table.h:160:12: warning: 'get_pte_idx_from_string' defined but not used [-Wunused-function]
+/Projects/collaboratory/kvandivo/android-ndk-r10/toolchains/arm-linux-androideabi-4.6/prebuilt/linux-x86/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/as: /usr/lib/libz.so.1: no version information available (required by /Projects/collaboratory/kvandivo/android-ndk-r10/toolchains/arm-linux-androideabi-4.6/prebuilt/linux-x86/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/as)
+-fPIC -o ../compile/lib_ANDROIDARMV7A/molfile/xyzplugin.so ../compile/lib_ANDROIDARMV7A/molfile/xyzplugin.o
+/Projects/collaboratory/kvandivo/android-ndk-r10/toolchains/arm-linux-androideabi-4.6/prebuilt/linux-x86/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/as: /usr/lib/libz.so.1: no version information available (required by /Projects/collaboratory/kvandivo/android-ndk-r10/toolchains/arm-linux-androideabi-4.6/prebuilt/linux-x86/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/as)
+-fPIC -o ../compile/lib_ANDROIDARMV7A/molfile/vtfplugin.so ../compile/lib_ANDROIDARMV7A/molfile/vtfplugin.o -L/Projects/vmd/vmd/lib/tcl/lib_ANDROIDARMV7A -ltcl8.5 -ldl
+src/readpdb.h:39:12: warning: 'read_pdb_record' defined but not used [-Wunused-function]
+src/readpdb.h:348:12: warning: 'write_raw_pdb_record' defined but not used [-Wunused-function]
+src/periodic_table.h:95:20: warning: 'get_pte_label' defined but not used [-Wunused-function]
+src/periodic_table.h:133:12: warning: 'get_pte_idx' defined but not used [-Wunused-function]
+/Projects/collaboratory/kvandivo/android-ndk-r10/toolchains/arm-linux-androideabi-4.6/prebuilt/linux-x86/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/as: /usr/lib/libz.so.1: no version information available (required by /Projects/collaboratory/kvandivo/android-ndk-r10/toolchains/arm-linux-androideabi-4.6/prebuilt/linux-x86/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/as)
+-fPIC -o ../compile/lib_ANDROIDARMV7A/molfile/webpdbplugin.so ../compile/lib_ANDROIDARMV7A/molfile/webpdbplugin.o -L/Projects/vmd/vmd/lib/tcl/lib_ANDROIDARMV7A -ltcl8.5 -ldl
+src/periodic_table.h:160:12: warning: 'get_pte_idx_from_string' defined but not used [-Wunused-function]
+/Projects/collaboratory/kvandivo/android-ndk-r10/toolchains/arm-linux-androideabi-4.6/prebuilt/linux-x86/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/as: /usr/lib/libz.so.1: no version information available (required by /Projects/collaboratory/kvandivo/android-ndk-r10/toolchains/arm-linux-androideabi-4.6/prebuilt/linux-x86/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/as)
+/Projects/collaboratory/kvandivo/android-ndk-r10/toolchains/arm-linux-androideabi-4.6/prebuilt/linux-x86/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/as: /usr/lib/libz.so.1: no version information available (required by /Projects/collaboratory/kvandivo/android-ndk-r10/toolchains/arm-linux-androideabi-4.6/prebuilt/linux-x86/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/as)
+src/readpdb.h:187:13: warning: 'get_pdb_header' defined but not used [-Wunused-function]
+src/readpdb.h:207:13: warning: 'get_pdb_conect' defined but not used [-Wunused-function]
+src/readpdb.h:348:12: warning: 'write_raw_pdb_record' defined but not used [-Wunused-function]
+src/vmddir.h:132:12: warning: 'vmd_file_is_executable' defined but not used [-Wunused-function]
+src/periodic_table.h:95:20: warning: 'get_pte_label' defined but not used [-Wunused-function]
+src/periodic_table.h:133:12: warning: 'get_pte_idx' defined but not used [-Wunused-function]
+src/babelplugin.c:319:20: warning: 'openbabel11type_from_name' defined but not used [-Wunused-function]
+/Projects/collaboratory/kvandivo/android-ndk-r10/toolchains/arm-linux-androideabi-4.6/prebuilt/linux-x86/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/as: /usr/lib/libz.so.1: no version information available (required by /Projects/collaboratory/kvandivo/android-ndk-r10/toolchains/arm-linux-androideabi-4.6/prebuilt/linux-x86/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/as)
+src/qmplugin.h:711:12: warning: 'symmetry_expand' defined but not used [-Wunused-function]
+src/qmplugin.h:835:13: warning: 'eatline' defined but not used [-Wunused-function]
+src/qmplugin.h:846:13: warning: 'eatwhitelines' defined but not used [-Wunused-function]
+src/qmplugin.h:895:12: warning: 'iswhiteline' defined but not used [-Wunused-function]
+src/qmplugin.h:901:14: warning: 'strtoupper' defined but not used [-Wunused-function]
+src/qmplugin.h:962:12: warning: 'goto_keyline' defined but not used [-Wunused-function]
+src/qmplugin.h:1006:12: warning: 'have_keyline' defined but not used [-Wunused-function]
+src/qmplugin.h:1077:13: warning: 'thisline' defined but not used [-Wunused-function]
+src/qmplugin.h:1097:13: warning: 'whereami' defined but not used [-Wunused-function]
+src/qmplugin.h:437:18: warning: 'init_qmdata' defined but not used [-Wunused-function]
+src/qmplugin.h:471:27: warning: 'add_wavefunction' defined but not used [-Wunused-function]
+src/qmplugin.h:490:13: warning: 'replace_wavefunction' defined but not used [-Wunused-function]
+src/qmplugin.h:507:13: warning: 'del_wavefunction' defined but not used [-Wunused-function]
+src/qmplugin.h:540:13: warning: 'angular_momentum_expon' defined but not used [-Wunused-function]
+src/qmplugin.h:585:13: warning: 'print_matrix4' defined but not used [-Wunused-function]
+src/qmplugin.h:1028:12: warning: 'fpexpftoc' defined but not used [-Wunused-function]
+/Projects/collaboratory/kvandivo/android-ndk-r10/toolchains/arm-linux-androideabi-4.6/prebuilt/linux-x86/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/as: /usr/lib/libz.so.1: no version information available (required by /Projects/collaboratory/kvandivo/android-ndk-r10/toolchains/arm-linux-androideabi-4.6/prebuilt/linux-x86/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/as)
+/Projects/collaboratory/kvandivo/android-ndk-r10/toolchains/arm-linux-androideabi-4.6/prebuilt/linux-x86/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/as: /usr/lib/libz.so.1: no version information available (required by /Projects/collaboratory/kvandivo/android-ndk-r10/toolchains/arm-linux-androideabi-4.6/prebuilt/linux-x86/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/as)
+/Projects/collaboratory/kvandivo/android-ndk-r10/toolchains/arm-linux-androideabi-4.6/prebuilt/linux-x86/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/as: /usr/lib/libz.so.1: no version information available (required by /Projects/collaboratory/kvandivo/android-ndk-r10/toolchains/arm-linux-androideabi-4.6/prebuilt/linux-x86/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/as)
+/Projects/collaboratory/kvandivo/android-ndk-r10/toolchains/arm-linux-androideabi-4.6/prebuilt/linux-x86/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/as: /usr/lib/libz.so.1: no version information available (required by /Projects/collaboratory/kvandivo/android-ndk-r10/toolchains/arm-linux-androideabi-4.6/prebuilt/linux-x86/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/as)
+/Projects/collaboratory/kvandivo/android-ndk-r10/toolchains/arm-linux-androideabi-4.6/prebuilt/linux-x86/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/as: /usr/lib/libz.so.1: no version information available (required by /Projects/collaboratory/kvandivo/android-ndk-r10/toolchains/arm-linux-androideabi-4.6/prebuilt/linux-x86/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/as)
+/Projects/collaboratory/kvandivo/android-ndk-r10/toolchains/arm-linux-androideabi-4.6/prebuilt/linux-x86/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/as: /usr/lib/libz.so.1: no version information available (required by /Projects/collaboratory/kvandivo/android-ndk-r10/toolchains/arm-linux-androideabi-4.6/prebuilt/linux-x86/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/as)
+src/ccp4plugin.C: In function 'int read_ccp4_data(void*, int, float*, float*)':
+src/ccp4plugin.C:365:68: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+src/endianswap.h: At global scope:
+src/endianswap.h:32:13: warning: 'void swap2_unaligned(void*, long int)' defined but not used [-Wunused-function]
+src/endianswap.h:46:13: warning: 'void swap4_unaligned(void*, long int)' defined but not used [-Wunused-function]
+src/endianswap.h:65:13: warning: 'void swap8_unaligned(void*, long int)' defined but not used [-Wunused-function]
+src/endianswap.h:96:13: warning: 'void swap2_aligned(void*, long int)' defined but not used [-Wunused-function]
+src/endianswap.h:124:13: warning: 'void swap8_aligned(void*, long int)' defined but not used [-Wunused-function]
+/Projects/collaboratory/kvandivo/android-ndk-r10/toolchains/arm-linux-androideabi-4.6/prebuilt/linux-x86/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/as: /usr/lib/libz.so.1: no version information available (required by /Projects/collaboratory/kvandivo/android-ndk-r10/toolchains/arm-linux-androideabi-4.6/prebuilt/linux-x86/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/as)
+/Projects/collaboratory/kvandivo/android-ndk-r10/toolchains/arm-linux-androideabi-4.6/prebuilt/linux-x86/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/as: /usr/lib/libz.so.1: no version information available (required by /Projects/collaboratory/kvandivo/android-ndk-r10/toolchains/arm-linux-androideabi-4.6/prebuilt/linux-x86/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/as)
+src/cpmdplugin.c:84:12: warning: 'read_cpmd_structure' defined but not used [-Wunused-function]
+/Projects/collaboratory/kvandivo/android-ndk-r10/toolchains/arm-linux-androideabi-4.6/prebuilt/linux-x86/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/as: /usr/lib/libz.so.1: no version information available (required by /Projects/collaboratory/kvandivo/android-ndk-r10/toolchains/arm-linux-androideabi-4.6/prebuilt/linux-x86/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/as)
+/Projects/collaboratory/kvandivo/android-ndk-r10/toolchains/arm-linux-androideabi-4.6/prebuilt/linux-x86/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/as: /usr/lib/libz.so.1: no version information available (required by /Projects/collaboratory/kvandivo/android-ndk-r10/toolchains/arm-linux-androideabi-4.6/prebuilt/linux-x86/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/as)
+src/periodic_table.h:133:12: warning: 'int get_pte_idx(char const*)' defined but not used [-Wunused-function]
+src/periodic_table.h:160:12: warning: 'int get_pte_idx_from_string(char const*)' defined but not used [-Wunused-function]
+/Projects/collaboratory/kvandivo/android-ndk-r10/toolchains/arm-linux-androideabi-4.6/prebuilt/linux-x86/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/as: /usr/lib/libz.so.1: no version information available (required by /Projects/collaboratory/kvandivo/android-ndk-r10/toolchains/arm-linux-androideabi-4.6/prebuilt/linux-x86/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/as)
+src/dcdplugin.c: In function 'read_dcdstep':
+src/dcdplugin.c:578:5: warning: "/*" within comment [-Wcomment]
+src/dcdplugin.c:541:16: warning: variable 'readlen' set but not used [-Wunused-but-set-variable]
+src/dcdplugin.c: At top level:
+src/fastio.h:459:19: warning: 'fio_readv' defined but not used [-Wunused-function]
+src/fastio.h:595:12: warning: 'fio_read_int32' defined but not used [-Wunused-function]
+src/fastio.h:599:12: warning: 'fio_write_str' defined but not used [-Wunused-function]
+src/endianswap.h:32:13: warning: 'swap2_unaligned' defined but not used [-Wunused-function]
+src/endianswap.h:96:13: warning: 'swap2_aligned' defined but not used [-Wunused-function]
+/Projects/collaboratory/kvandivo/android-ndk-r10/toolchains/arm-linux-androideabi-4.6/prebuilt/linux-x86/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/as: /usr/lib/libz.so.1: no version information available (required by /Projects/collaboratory/kvandivo/android-ndk-r10/toolchains/arm-linux-androideabi-4.6/prebuilt/linux-x86/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/as)
+/Projects/collaboratory/kvandivo/android-ndk-r10/toolchains/arm-linux-androideabi-4.6/prebuilt/linux-x86/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/as: /usr/lib/libz.so.1: no version information available (required by /Projects/collaboratory/kvandivo/android-ndk-r10/toolchains/arm-linux-androideabi-4.6/prebuilt/linux-x86/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/as)
+src/endianswap.h:46:13: warning: 'void swap4_unaligned(void*, long int)' defined but not used [-Wunused-function]
+src/endianswap.h:65:13: warning: 'void swap8_unaligned(void*, long int)' defined but not used [-Wunused-function]
+src/endianswap.h:110:13: warning: 'void swap4_aligned(void*, long int)' defined but not used [-Wunused-function]
+src/endianswap.h:124:13: warning: 'void swap8_aligned(void*, long int)' defined but not used [-Wunused-function]
+/Projects/collaboratory/kvandivo/android-ndk-r10/toolchains/arm-linux-androideabi-4.6/prebuilt/linux-x86/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/as: /usr/lib/libz.so.1: no version information available (required by /Projects/collaboratory/kvandivo/android-ndk-r10/toolchains/arm-linux-androideabi-4.6/prebuilt/linux-x86/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/as)
+/Projects/collaboratory/kvandivo/android-ndk-r10/toolchains/arm-linux-androideabi-4.6/prebuilt/linux-x86/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/as: /usr/lib/libz.so.1: no version information available (required by /Projects/collaboratory/kvandivo/android-ndk-r10/toolchains/arm-linux-androideabi-4.6/prebuilt/linux-x86/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/as)
+/Projects/collaboratory/kvandivo/android-ndk-r10/toolchains/arm-linux-androideabi-4.6/prebuilt/linux-x86/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/as: /usr/lib/libz.so.1: no version information available (required by /Projects/collaboratory/kvandivo/android-ndk-r10/toolchains/arm-linux-androideabi-4.6/prebuilt/linux-x86/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/as)
+src/endianswap.h:32:13: warning: 'void swap2_unaligned(void*, long int)' defined but not used [-Wunused-function]
+src/endianswap.h:46:13: warning: 'void swap4_unaligned(void*, long int)' defined but not used [-Wunused-function]
+src/endianswap.h:65:13: warning: 'void swap8_unaligned(void*, long int)' defined but not used [-Wunused-function]
+src/endianswap.h:96:13: warning: 'void swap2_aligned(void*, long int)' defined but not used [-Wunused-function]
+src/endianswap.h:124:13: warning: 'void swap8_aligned(void*, long int)' defined but not used [-Wunused-function]
+src/fortread.h:36:12: warning: 'int fort_eat_recmark(FILE*, int)' defined but not used [-Wunused-function]
+src/fortread.h:55:12: warning: 'int fort_get_endian_reclen(int, int, int, int*, int*)' defined but not used [-Wunused-function]
+src/fortread.h:133:13: warning: 'void strnwscpy(char*, char const*, int)' defined but not used [-Wunused-function]
+/Projects/collaboratory/kvandivo/android-ndk-r10/toolchains/arm-linux-androideabi-4.6/prebuilt/linux-x86/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/as: /usr/lib/libz.so.1: no version information available (required by /Projects/collaboratory/kvandivo/android-ndk-r10/toolchains/arm-linux-androideabi-4.6/prebuilt/linux-x86/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/as)
+src/gamessplugin.c: In function 'have_gamess':
+src/gamessplugin.c:1101:8: warning: variable 'word' set but not used [-Wunused-but-set-variable]
+src/gamessplugin.c: In function 'get_basis_stats':
+src/gamessplugin.c:2259:8: warning: variable 'word' set but not used [-Wunused-but-set-variable]
+src/gamessplugin.c: In function 'get_wavefunction':
+src/gamessplugin.c:3568:8: warning: variable 'word' set but not used [-Wunused-but-set-variable]
+src/gamessplugin.c: At top level:
+src/qmplugin.h:895:12: warning: 'iswhiteline' defined but not used [-Wunused-function]
+src/qmplugin.h:901:14: warning: 'strtoupper' defined but not used [-Wunused-function]
+src/qmplugin.h:1077:13: warning: 'thisline' defined but not used [-Wunused-function]
+src/qmplugin.h:1097:13: warning: 'whereami' defined but not used [-Wunused-function]
+src/qmplugin.h:585:13: warning: 'print_matrix4' defined but not used [-Wunused-function]
+src/qmplugin.h:1028:12: warning: 'fpexpftoc' defined but not used [-Wunused-function]
+src/periodic_table.h:95:20: warning: 'get_pte_label' defined but not used [-Wunused-function]
+src/periodic_table.h:102:14: warning: 'get_pte_mass' defined but not used [-Wunused-function]
+src/periodic_table.h:109:14: warning: 'get_pte_vdw_radius' defined but not used [-Wunused-function]
+src/periodic_table.h:133:12: warning: 'get_pte_idx' defined but not used [-Wunused-function]
+src/gamessplugin.c:997:13: warning: 'print_input_data' defined but not used [-Wunused-function]
+/Projects/collaboratory/kvandivo/android-ndk-r10/toolchains/arm-linux-androideabi-4.6/prebuilt/linux-x86/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/as: /usr/lib/libz.so.1: no version information available (required by /Projects/collaboratory/kvandivo/android-ndk-r10/toolchains/arm-linux-androideabi-4.6/prebuilt/linux-x86/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/as)
+src/endianswap.h:32:13: warning: 'void swap2_unaligned(void*, long int)' defined but not used [-Wunused-function]
+src/endianswap.h:46:13: warning: 'void swap4_unaligned(void*, long int)' defined but not used [-Wunused-function]
+src/endianswap.h:65:13: warning: 'void swap8_unaligned(void*, long int)' defined but not used [-Wunused-function]
+src/endianswap.h:124:13: warning: 'void swap8_aligned(void*, long int)' defined but not used [-Wunused-function]
+/Projects/collaboratory/kvandivo/android-ndk-r10/toolchains/arm-linux-androideabi-4.6/prebuilt/linux-x86/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/as: /usr/lib/libz.so.1: no version information available (required by /Projects/collaboratory/kvandivo/android-ndk-r10/toolchains/arm-linux-androideabi-4.6/prebuilt/linux-x86/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/as)
+src/endianswap.h:32:13: warning: 'void swap2_unaligned(void*, long int)' defined but not used [-Wunused-function]
+src/endianswap.h:46:13: warning: 'void swap4_unaligned(void*, long int)' defined but not used [-Wunused-function]
+src/endianswap.h:65:13: warning: 'void swap8_unaligned(void*, long int)' defined but not used [-Wunused-function]
+src/endianswap.h:96:13: warning: 'void swap2_aligned(void*, long int)' defined but not used [-Wunused-function]
+src/endianswap.h:124:13: warning: 'void swap8_aligned(void*, long int)' defined but not used [-Wunused-function]
+/Projects/collaboratory/kvandivo/android-ndk-r10/toolchains/arm-linux-androideabi-4.6/prebuilt/linux-x86/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/as: /usr/lib/libz.so.1: no version information available (required by /Projects/collaboratory/kvandivo/android-ndk-r10/toolchains/arm-linux-androideabi-4.6/prebuilt/linux-x86/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/as)
+src/endianswap.h:32:13: warning: 'void swap2_unaligned(void*, long int)' defined but not used [-Wunused-function]
+src/endianswap.h:46:13: warning: 'void swap4_unaligned(void*, long int)' defined but not used [-Wunused-function]
+src/endianswap.h:65:13: warning: 'void swap8_unaligned(void*, long int)' defined but not used [-Wunused-function]
+src/endianswap.h:96:13: warning: 'void swap2_aligned(void*, long int)' defined but not used [-Wunused-function]
+src/endianswap.h:124:13: warning: 'void swap8_aligned(void*, long int)' defined but not used [-Wunused-function]
+src/fortread.h:36:12: warning: 'int fort_eat_recmark(FILE*, int)' defined but not used [-Wunused-function]
+src/fortread.h:55:12: warning: 'int fort_get_endian_reclen(int, int, int, int*, int*)' defined but not used [-Wunused-function]
+src/fortread.h:133:13: warning: 'void strnwscpy(char*, char const*, int)' defined but not used [-Wunused-function]
+/Projects/collaboratory/kvandivo/android-ndk-r10/toolchains/arm-linux-androideabi-4.6/prebuilt/linux-x86/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/as: /usr/lib/libz.so.1: no version information available (required by /Projects/collaboratory/kvandivo/android-ndk-r10/toolchains/arm-linux-androideabi-4.6/prebuilt/linux-x86/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/as)
+src/endianswap.h:32:13: warning: 'void swap2_unaligned(void*, long int)' defined but not used [-Wunused-function]
+src/endianswap.h:46:13: warning: 'void swap4_unaligned(void*, long int)' defined but not used [-Wunused-function]
+src/endianswap.h:65:13: warning: 'void swap8_unaligned(void*, long int)' defined but not used [-Wunused-function]
+src/endianswap.h:96:13: warning: 'void swap2_aligned(void*, long int)' defined but not used [-Wunused-function]
+/Projects/collaboratory/kvandivo/android-ndk-r10/toolchains/arm-linux-androideabi-4.6/prebuilt/linux-x86/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/as: /usr/lib/libz.so.1: no version information available (required by /Projects/collaboratory/kvandivo/android-ndk-r10/toolchains/arm-linux-androideabi-4.6/prebuilt/linux-x86/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/as)
+src/fastio.h:459:19: warning: 'fio_readv' defined but not used [-Wunused-function]
+src/hash.c:183:21: warning: 'hash_delete' defined but not used [-Wunused-function]
+src/hash.c:280:24: warning: 'hash_stats' defined but not used [-Wunused-function]
+src/endianswap.h:32:13: warning: 'swap2_unaligned' defined but not used [-Wunused-function]
+src/endianswap.h:46:13: warning: 'swap4_unaligned' defined but not used [-Wunused-function]
+src/endianswap.h:65:13: warning: 'swap8_unaligned' defined but not used [-Wunused-function]
+/Projects/collaboratory/kvandivo/android-ndk-r10/toolchains/arm-linux-androideabi-4.6/prebuilt/linux-x86/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/as: /usr/lib/libz.so.1: no version information available (required by /Projects/collaboratory/kvandivo/android-ndk-r10/toolchains/arm-linux-androideabi-4.6/prebuilt/linux-x86/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/as)
+src/periodic_table.h:95:20: warning: 'get_pte_label' defined but not used [-Wunused-function]
+src/periodic_table.h:160:12: warning: 'get_pte_idx_from_string' defined but not used [-Wunused-function]
+src/hash.c:183:21: warning: 'hash_delete' defined but not used [-Wunused-function]
+src/hash.c:223:21: warning: 'hash_entries' defined but not used [-Wunused-function]
+src/hash.c:280:24: warning: 'hash_stats' defined but not used [-Wunused-function]
+src/inthash.c:182:21: warning: 'inthash_delete' defined but not used [-Wunused-function]
+src/inthash.c:277:24: warning: 'inthash_stats' defined but not used [-Wunused-function]
+/Projects/collaboratory/kvandivo/android-ndk-r10/toolchains/arm-linux-androideabi-4.6/prebuilt/linux-x86/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/as: /usr/lib/libz.so.1: no version information available (required by /Projects/collaboratory/kvandivo/android-ndk-r10/toolchains/arm-linux-androideabi-4.6/prebuilt/linux-x86/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/as)
+/Projects/collaboratory/kvandivo/android-ndk-r10/toolchains/arm-linux-androideabi-4.6/prebuilt/linux-x86/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/as: /usr/lib/libz.so.1: no version information available (required by /Projects/collaboratory/kvandivo/android-ndk-r10/toolchains/arm-linux-androideabi-4.6/prebuilt/linux-x86/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/as)
+src/hash.c:183:21: warning: 'int hash_delete(hash_t*, char const*)' defined but not used [-Wunused-function]
+src/hash.c:223:21: warning: 'int hash_entries(hash_t*)' defined but not used [-Wunused-function]
+src/hash.c:280:24: warning: 'char* hash_stats(hash_t*)' defined but not used [-Wunused-function]
+/Projects/collaboratory/kvandivo/android-ndk-r10/toolchains/arm-linux-androideabi-4.6/prebuilt/linux-x86/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/as: /usr/lib/libz.so.1: no version information available (required by /Projects/collaboratory/kvandivo/android-ndk-r10/toolchains/arm-linux-androideabi-4.6/prebuilt/linux-x86/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/as)
+/Projects/collaboratory/kvandivo/android-ndk-r10/toolchains/arm-linux-androideabi-4.6/prebuilt/linux-x86/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/as: /usr/lib/libz.so.1: no version information available (required by /Projects/collaboratory/kvandivo/android-ndk-r10/toolchains/arm-linux-androideabi-4.6/prebuilt/linux-x86/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/as)
+src/moldenplugin.c: In function 'read_molden_rundata':
+src/moldenplugin.c:591:25: warning: variable 'hessian_data' set but not used [-Wunused-but-set-variable]
+src/moldenplugin.c: In function 'read_wave_coeffs':
+src/moldenplugin.c:1278:7: warning: format '%s' expects argument of type 'char *', but argument 3 has type 'char (*)[10]' [-Wformat]
+src/moldenplugin.c: At top level:
+src/periodic_table.h:95:20: warning: 'get_pte_label' defined but not used [-Wunused-function]
+src/periodic_table.h:102:14: warning: 'get_pte_mass' defined but not used [-Wunused-function]
+src/periodic_table.h:109:14: warning: 'get_pte_vdw_radius' defined but not used [-Wunused-function]
+src/periodic_table.h:133:12: warning: 'get_pte_idx' defined but not used [-Wunused-function]
+src/qmplugin.h:711:12: warning: 'symmetry_expand' defined but not used [-Wunused-function]
+src/qmplugin.h:1006:12: warning: 'have_keyline' defined but not used [-Wunused-function]
+src/qmplugin.h:1077:13: warning: 'thisline' defined but not used [-Wunused-function]
+src/qmplugin.h:1097:13: warning: 'whereami' defined but not used [-Wunused-function]
+src/qmplugin.h:490:13: warning: 'replace_wavefunction' defined but not used [-Wunused-function]
+src/qmplugin.h:507:13: warning: 'del_wavefunction' defined but not used [-Wunused-function]
+src/qmplugin.h:585:13: warning: 'print_matrix4' defined but not used [-Wunused-function]
+/Projects/collaboratory/kvandivo/android-ndk-r10/toolchains/arm-linux-androideabi-4.6/prebuilt/linux-x86/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/as: /usr/lib/libz.so.1: no version information available (required by /Projects/collaboratory/kvandivo/android-ndk-r10/toolchains/arm-linux-androideabi-4.6/prebuilt/linux-x86/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/as)
+/Projects/collaboratory/kvandivo/android-ndk-r10/toolchains/arm-linux-androideabi-4.6/prebuilt/linux-x86/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/as: /usr/lib/libz.so.1: no version information available (required by /Projects/collaboratory/kvandivo/android-ndk-r10/toolchains/arm-linux-androideabi-4.6/prebuilt/linux-x86/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/as)
+/Projects/collaboratory/kvandivo/android-ndk-r10/toolchains/arm-linux-androideabi-4.6/prebuilt/linux-x86/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/as: /usr/lib/libz.so.1: no version information available (required by /Projects/collaboratory/kvandivo/android-ndk-r10/toolchains/arm-linux-androideabi-4.6/prebuilt/linux-x86/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/as)
+/Projects/collaboratory/kvandivo/android-ndk-r10/toolchains/arm-linux-androideabi-4.6/prebuilt/linux-x86/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/as: /usr/lib/libz.so.1: no version information available (required by /Projects/collaboratory/kvandivo/android-ndk-r10/toolchains/arm-linux-androideabi-4.6/prebuilt/linux-x86/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/as)
+/Projects/collaboratory/kvandivo/android-ndk-r10/toolchains/arm-linux-androideabi-4.6/prebuilt/linux-x86/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/as: /usr/lib/libz.so.1: no version information available (required by /Projects/collaboratory/kvandivo/android-ndk-r10/toolchains/arm-linux-androideabi-4.6/prebuilt/linux-x86/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/as)
+/Projects/collaboratory/kvandivo/android-ndk-r10/toolchains/arm-linux-androideabi-4.6/prebuilt/linux-x86/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/as: /usr/lib/libz.so.1: no version information available (required by /Projects/collaboratory/kvandivo/android-ndk-r10/toolchains/arm-linux-androideabi-4.6/prebuilt/linux-x86/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/as)
+/Projects/collaboratory/kvandivo/android-ndk-r10/toolchains/arm-linux-androideabi-4.6/prebuilt/linux-x86/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/as: /usr/lib/libz.so.1: no version information available (required by /Projects/collaboratory/kvandivo/android-ndk-r10/toolchains/arm-linux-androideabi-4.6/prebuilt/linux-x86/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/as)
+src/endianswap.h:32:13: warning: 'void swap2_unaligned(void*, long int)' defined but not used [-Wunused-function]
+src/endianswap.h:46:13: warning: 'void swap4_unaligned(void*, long int)' defined but not used [-Wunused-function]
+src/endianswap.h:65:13: warning: 'void swap8_unaligned(void*, long int)' defined but not used [-Wunused-function]
+src/endianswap.h:96:13: warning: 'void swap2_aligned(void*, long int)' defined but not used [-Wunused-function]
+/Projects/collaboratory/kvandivo/android-ndk-r10/toolchains/arm-linux-androideabi-4.6/prebuilt/linux-x86/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/as: /usr/lib/libz.so.1: no version information available (required by /Projects/collaboratory/kvandivo/android-ndk-r10/toolchains/arm-linux-androideabi-4.6/prebuilt/linux-x86/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/as)
+src/periodic_table.h:133:12: warning: 'get_pte_idx' defined but not used [-Wunused-function]
+/Projects/collaboratory/kvandivo/android-ndk-r10/toolchains/arm-linux-androideabi-4.6/prebuilt/linux-x86/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/as: /usr/lib/libz.so.1: no version information available (required by /Projects/collaboratory/kvandivo/android-ndk-r10/toolchains/arm-linux-androideabi-4.6/prebuilt/linux-x86/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/as)
+/Projects/collaboratory/kvandivo/android-ndk-r10/toolchains/arm-linux-androideabi-4.6/prebuilt/linux-x86/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/as: /usr/lib/libz.so.1: no version information available (required by /Projects/collaboratory/kvandivo/android-ndk-r10/toolchains/arm-linux-androideabi-4.6/prebuilt/linux-x86/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/as)
+src/pltplugin.C: In function 'int read_plt_data(void*, int, float*, float*)':
+src/pltplugin.C:138:54: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+src/endianswap.h: At global scope:
+src/endianswap.h:32:13: warning: 'void swap2_unaligned(void*, long int)' defined but not used [-Wunused-function]
+src/endianswap.h:46:13: warning: 'void swap4_unaligned(void*, long int)' defined but not used [-Wunused-function]
+src/endianswap.h:65:13: warning: 'void swap8_unaligned(void*, long int)' defined but not used [-Wunused-function]
+src/endianswap.h:96:13: warning: 'void swap2_aligned(void*, long int)' defined but not used [-Wunused-function]
+src/endianswap.h:124:13: warning: 'void swap8_aligned(void*, long int)' defined but not used [-Wunused-function]
+/Projects/collaboratory/kvandivo/android-ndk-r10/toolchains/arm-linux-androideabi-4.6/prebuilt/linux-x86/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/as: /usr/lib/libz.so.1: no version information available (required by /Projects/collaboratory/kvandivo/android-ndk-r10/toolchains/arm-linux-androideabi-4.6/prebuilt/linux-x86/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/as)
+src/pqrplugin.c: In function 'get_atom_radius':
+src/pqrplugin.c:161:16: warning: variable 'type' set but not used [-Wunused-but-set-variable]
+src/pqrplugin.c:161:9: warning: variable 'name' set but not used [-Wunused-but-set-variable]
+/Projects/collaboratory/kvandivo/android-ndk-r10/toolchains/arm-linux-androideabi-4.6/prebuilt/linux-x86/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/as: /usr/lib/libz.so.1: no version information available (required by /Projects/collaboratory/kvandivo/android-ndk-r10/toolchains/arm-linux-androideabi-4.6/prebuilt/linux-x86/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/as)
+src/endianswap.h:32:13: warning: 'swap2_unaligned' defined but not used [-Wunused-function]
+src/endianswap.h:46:13: warning: 'swap4_unaligned' defined but not used [-Wunused-function]
+src/endianswap.h:65:13: warning: 'swap8_unaligned' defined but not used [-Wunused-function]
+src/endianswap.h:96:13: warning: 'swap2_aligned' defined but not used [-Wunused-function]
+src/endianswap.h:124:13: warning: 'swap8_aligned' defined but not used [-Wunused-function]
+src/fortread.h:36:12: warning: 'fort_eat_recmark' defined but not used [-Wunused-function]
+src/fortread.h:55:12: warning: 'fort_get_endian_reclen' defined but not used [-Wunused-function]
+src/fortread.h:103:12: warning: 'fortread_4' defined but not used [-Wunused-function]
+/Projects/collaboratory/kvandivo/android-ndk-r10/toolchains/arm-linux-androideabi-4.6/prebuilt/linux-x86/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/as: /usr/lib/libz.so.1: no version information available (required by /Projects/collaboratory/kvandivo/android-ndk-r10/toolchains/arm-linux-androideabi-4.6/prebuilt/linux-x86/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/as)
+/Projects/collaboratory/kvandivo/android-ndk-r10/toolchains/arm-linux-androideabi-4.6/prebuilt/linux-x86/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/as: /usr/lib/libz.so.1: no version information available (required by /Projects/collaboratory/kvandivo/android-ndk-r10/toolchains/arm-linux-androideabi-4.6/prebuilt/linux-x86/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/as)
+src/rst7plugin.c: In function 'open_rst_read':
+src/rst7plugin.c:43:11: warning: variable 'timesteprst' set but not used [-Wunused-but-set-variable]
+/Projects/collaboratory/kvandivo/android-ndk-r10/toolchains/arm-linux-androideabi-4.6/prebuilt/linux-x86/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/as: /usr/lib/libz.so.1: no version information available (required by /Projects/collaboratory/kvandivo/android-ndk-r10/toolchains/arm-linux-androideabi-4.6/prebuilt/linux-x86/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/as)
+/Projects/collaboratory/kvandivo/android-ndk-r10/toolchains/arm-linux-androideabi-4.6/prebuilt/linux-x86/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/as: /usr/lib/libz.so.1: no version information available (required by /Projects/collaboratory/kvandivo/android-ndk-r10/toolchains/arm-linux-androideabi-4.6/prebuilt/linux-x86/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/as)
+src/endianswap.h:32:13: warning: 'void swap2_unaligned(void*, long int)' defined but not used [-Wunused-function]
+src/endianswap.h:46:13: warning: 'void swap4_unaligned(void*, long int)' defined but not used [-Wunused-function]
+src/endianswap.h:65:13: warning: 'void swap8_unaligned(void*, long int)' defined but not used [-Wunused-function]
+src/endianswap.h:96:13: warning: 'void swap2_aligned(void*, long int)' defined but not used [-Wunused-function]
+src/endianswap.h:124:13: warning: 'void swap8_aligned(void*, long int)' defined but not used [-Wunused-function]
+/Projects/collaboratory/kvandivo/android-ndk-r10/toolchains/arm-linux-androideabi-4.6/prebuilt/linux-x86/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/as: /usr/lib/libz.so.1: no version information available (required by /Projects/collaboratory/kvandivo/android-ndk-r10/toolchains/arm-linux-androideabi-4.6/prebuilt/linux-x86/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/as)
+/Projects/collaboratory/kvandivo/android-ndk-r10/toolchains/arm-linux-androideabi-4.6/prebuilt/linux-x86/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/as: /usr/lib/libz.so.1: no version information available (required by /Projects/collaboratory/kvandivo/android-ndk-r10/toolchains/arm-linux-androideabi-4.6/prebuilt/linux-x86/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/as)
+/Projects/collaboratory/kvandivo/android-ndk-r10/toolchains/arm-linux-androideabi-4.6/prebuilt/linux-x86/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/as: /usr/lib/libz.so.1: no version information available (required by /Projects/collaboratory/kvandivo/android-ndk-r10/toolchains/arm-linux-androideabi-4.6/prebuilt/linux-x86/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/as)
+src/uhbdplugin.C: In function 'void* open_uhbd_read(char const*, char const*, int*)':
+src/uhbdplugin.C:85:22: warning: variable 'o' set but not used [-Wunused-but-set-variable]
+src/uhbdplugin.C:85:28: warning: variable 's' set but not used [-Wunused-but-set-variable]
+src/uhbdplugin.C: In function 'int read_uhbd_data(void*, int, float*, float*)':
+src/uhbdplugin.C:249:69: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+src/endianswap.h: At global scope:
+src/endianswap.h:32:13: warning: 'void swap2_unaligned(void*, long int)' defined but not used [-Wunused-function]
+src/endianswap.h:65:13: warning: 'void swap8_unaligned(void*, long int)' defined but not used [-Wunused-function]
+src/endianswap.h:96:13: warning: 'void swap2_aligned(void*, long int)' defined but not used [-Wunused-function]
+src/endianswap.h:124:13: warning: 'void swap8_aligned(void*, long int)' defined but not used [-Wunused-function]
+/Projects/collaboratory/kvandivo/android-ndk-r10/toolchains/arm-linux-androideabi-4.6/prebuilt/linux-x86/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/as: /usr/lib/libz.so.1: no version information available (required by /Projects/collaboratory/kvandivo/android-ndk-r10/toolchains/arm-linux-androideabi-4.6/prebuilt/linux-x86/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/as)
+src/vaspplugin.h:111:13: warning: 'vasp_timestep_unitcell' defined but not used [-Wunused-function]
+/Projects/collaboratory/kvandivo/android-ndk-r10/toolchains/arm-linux-androideabi-4.6/prebuilt/linux-x86/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/as: /usr/lib/libz.so.1: no version information available (required by /Projects/collaboratory/kvandivo/android-ndk-r10/toolchains/arm-linux-androideabi-4.6/prebuilt/linux-x86/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/as)
+src/periodic_table.h:160:12: warning: 'get_pte_idx_from_string' defined but not used [-Wunused-function]
+/Projects/collaboratory/kvandivo/android-ndk-r10/toolchains/arm-linux-androideabi-4.6/prebuilt/linux-x86/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/as: /usr/lib/libz.so.1: no version information available (required by /Projects/collaboratory/kvandivo/android-ndk-r10/toolchains/arm-linux-androideabi-4.6/prebuilt/linux-x86/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/as)
+src/vaspplugin.h:111:13: warning: 'vasp_timestep_unitcell' defined but not used [-Wunused-function]
+/Projects/collaboratory/kvandivo/android-ndk-r10/toolchains/arm-linux-androideabi-4.6/prebuilt/linux-x86/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/as: /usr/lib/libz.so.1: no version information available (required by /Projects/collaboratory/kvandivo/android-ndk-r10/toolchains/arm-linux-androideabi-4.6/prebuilt/linux-x86/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/as)
+src/periodic_table.h:160:12: warning: 'get_pte_idx_from_string' defined but not used [-Wunused-function]
+/Projects/collaboratory/kvandivo/android-ndk-r10/toolchains/arm-linux-androideabi-4.6/prebuilt/linux-x86/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/as: /usr/lib/libz.so.1: no version information available (required by /Projects/collaboratory/kvandivo/android-ndk-r10/toolchains/arm-linux-androideabi-4.6/prebuilt/linux-x86/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/as)
+src/periodic_table.h:160:12: warning: 'get_pte_idx_from_string' defined but not used [-Wunused-function]
+/Projects/collaboratory/kvandivo/android-ndk-r10/toolchains/arm-linux-androideabi-4.6/prebuilt/linux-x86/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/as: /usr/lib/libz.so.1: no version information available (required by /Projects/collaboratory/kvandivo/android-ndk-r10/toolchains/arm-linux-androideabi-4.6/prebuilt/linux-x86/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/as)
+src/periodic_table.h:160:12: warning: 'get_pte_idx_from_string' defined but not used [-Wunused-function]
+/Projects/collaboratory/kvandivo/android-ndk-r10/toolchains/arm-linux-androideabi-4.6/prebuilt/linux-x86/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/as: /usr/lib/libz.so.1: no version information available (required by /Projects/collaboratory/kvandivo/android-ndk-r10/toolchains/arm-linux-androideabi-4.6/prebuilt/linux-x86/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/as)
+src/periodic_table.h:160:12: warning: 'get_pte_idx_from_string' defined but not used [-Wunused-function]
+/Projects/collaboratory/kvandivo/android-ndk-r10/toolchains/arm-linux-androideabi-4.6/prebuilt/linux-x86/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/as: /usr/lib/libz.so.1: no version information available (required by /Projects/collaboratory/kvandivo/android-ndk-r10/toolchains/arm-linux-androideabi-4.6/prebuilt/linux-x86/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/as)
+/Projects/collaboratory/kvandivo/android-ndk-r10/toolchains/arm-linux-androideabi-4.6/prebuilt/linux-x86/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/as: /usr/lib/libz.so.1: no version information available (required by /Projects/collaboratory/kvandivo/android-ndk-r10/toolchains/arm-linux-androideabi-4.6/prebuilt/linux-x86/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/as)
+src/periodic_table.h:160:12: warning: 'int get_pte_idx_from_string(char const*)' defined but not used [-Wunused-function]
+/Projects/collaboratory/kvandivo/android-ndk-r10/toolchains/arm-linux-androideabi-4.6/prebuilt/linux-x86/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/as: /usr/lib/libz.so.1: no version information available (required by /Projects/collaboratory/kvandivo/android-ndk-r10/toolchains/arm-linux-androideabi-4.6/prebuilt/linux-x86/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/as)
+src/periodic_table.h:160:12: warning: 'get_pte_idx_from_string' defined but not used [-Wunused-function]
+/Projects/collaboratory/kvandivo/android-ndk-r10/toolchains/arm-linux-androideabi-4.6/prebuilt/linux-x86/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/as: /usr/lib/libz.so.1: no version information available (required by /Projects/collaboratory/kvandivo/android-ndk-r10/toolchains/arm-linux-androideabi-4.6/prebuilt/linux-x86/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/as)
+/Projects/collaboratory/kvandivo/android-ndk-r10/toolchains/arm-linux-androideabi-4.6/prebuilt/linux-x86/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/as: /usr/lib/libz.so.1: no version information available (required by /Projects/collaboratory/kvandivo/android-ndk-r10/toolchains/arm-linux-androideabi-4.6/prebuilt/linux-x86/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/as)
+src/readpdb.h:39:12: warning: 'read_pdb_record' defined but not used [-Wunused-function]
+src/readpdb.h:348:12: warning: 'write_raw_pdb_record' defined but not used [-Wunused-function]
+src/periodic_table.h:95:20: warning: 'get_pte_label' defined but not used [-Wunused-function]
+src/periodic_table.h:133:12: warning: 'get_pte_idx' defined but not used [-Wunused-function]
+/Projects/collaboratory/kvandivo/android-ndk-r10/toolchains/arm-linux-androideabi-4.6/prebuilt/linux-x86/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/as: /usr/lib/libz.so.1: no version information available (required by /Projects/collaboratory/kvandivo/android-ndk-r10/toolchains/arm-linux-androideabi-4.6/prebuilt/linux-x86/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/as)
